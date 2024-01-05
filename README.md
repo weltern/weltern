@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nick Welter
+Hi 👋 My name is Nick Welter
 ===================================================================================================================================
 
 Current SysAdmin, Future Engineer
 ---------------------------------
 
-I've been working on and learning PowerShell for the past few years now. If you end up finding anything useful here, please use at your own risk. I'm by no means an expert but I love helping others with things I've learned.
+I've been working with and learning PowerShell for the past few years now. If you end up finding anything useful here, please use at your own risk. I'm by no means an expert but I love helping others with things I've learned.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [nickwelter92@gmail.com](mailto:nickwelter92@gmail.com)
