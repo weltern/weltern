@@ -1,7 +1,7 @@
 Hi 👋 My name is Nick Welter
 ===================================================================================================================================
 
-Current SysAdmin, Future Engineer
+Windows System Engineer
 ---------------------------------
 
 I've been working with and learning PowerShell for the past few years now. If you end up finding anything useful here, please use at your own risk. I'm by no means an expert but I love helping others with things I've learned.
