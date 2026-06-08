@@ -23,18 +23,6 @@ I've been working with and learning PowerShell for the past few years now. If yo
 
 <p align="left"> <a href="https://www.github.com/weltern" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nicholas-welter" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/weltern"><img src="https://github-readme-stats.vercel.app/api?username=weltern&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="weltern's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-<div width="100%" align="center"><a href="https://github.com/weltern/Create-Package" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weltern&repo=Create-Package&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/weltern/UserRegistryHive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weltern&repo=UserRegistryHive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/weltern/Import-ConfigFile" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weltern&repo=Import-ConfigFile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/weltern/Get-ConfigFile" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=weltern&repo=Get-ConfigFile&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <div style="margin: 0;">
